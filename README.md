@@ -36,10 +36,10 @@
 
 * Lección 1
   * > Prototipo 01
-  * ><a href="https://reponame/issues/new?template=bug.md">Link de descarga</a>
+  * ><a href="https://github.com/ProgramacionVideojuegos2/Prototipo-1/tree/main">Link de descarga</a>
 * Lección 2
   * > Prototipo 02 
-  *><a href="https://reponame/issues/new?template=bug.md">Link de descarga</a>
+  * ><a href="https://reponame/issues/new?template=bug.md">Link de descarga</a>
 * Lección 3
   * > Prototipo 03
   * > Laboratorio
